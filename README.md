@@ -1,1 +1,5 @@
 # Chicago-Taxi-Tip
+
+Taxi driving can be a pretty lucrative occupation, however an important portion of revenue for drivers are tips. Tipped professions are usually paid less for their time or hourly rate to account for customer tips. The goal of any tipped worker is to optimize their time or model to obtain the greatest tip amount to compensate for this reality. So our objective for this project is to come up with a way to predict the tip amount for a taxi driver in Chicago using many variables with the open taxi data provided.
+
+One of our methods is to train a Linear Regression model to predict the tip amount from a trip based on many factors such as time, distance, and area. Our second method is to create a Classification model to predict/classify tips as low, medium, or high amounts. Using our models, a driver could predict what trips would be the best for them. A taxi company could also optimize their drivers for greater tip amounts, as in Illinois, companies are required to pay a minimum wage if tips don’t account for enough revenue for the driver.
